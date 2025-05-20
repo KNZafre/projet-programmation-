@@ -4,4 +4,4 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Happy)
 })
-basic.showString("MEILLEUR PROF")
+basic.showString("yes we code")
